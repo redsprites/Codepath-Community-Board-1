@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "title": "Hackathon 2024",
+      "date": "2024-03-10",
+      "description": "Join us for a 48-hour coding spree with challenges across multiple categories.",
+      "link": "#",
+      "image": "https://via.placeholder.com/300x200?text=Hackathon"
+    },
+    {
+      "id": 2,
+      "title": "TechStart Conference",
+      "date": "2024-04-15",
+      "description": "A conference for tech startups to showcase innovative technologies.",
+      "link": "#",
+      "image": "https://via.placeholder.com/300x200?text=TechStart+Conference"
+    },
+    {
+      "id": 3,
+      "title": "AI & Machine Learning Workshop",
+      "date": "2024-05-20",
+      "description": "A hands-on workshop on AI and machine learning techniques for beginners.",
+      "link": "#",
+      "image": "https://via.placeholder.com/300x200?text=AI+ML+Workshop"
+    },
+    {
+      "id": 4,
+      "title": "Cybersecurity Essentials",
+      "date": "2024-06-10",
+      "description": "Learn about the latest in cybersecurity and how to protect your data.",
+      "link": "#",
+      "image": "https://via.placeholder.com/300x200?text=Cybersecurity+Essentials"
+    },
+    {
+      "id": 5,
+      "title": "Virtual Reality Expo",
+      "date": "2024-07-05",
+      "description": "Explore the latest in VR technology and applications.",
+      "link": "#",
+      "image": "https://via.placeholder.com/300x200?text=VR+Expo"
+    },
+    {
+      "id": 6,
+      "title": "Blockchain Basics",
+      "date": "2024-08-15",
+      "description": "An introduction to blockchain technology and its potential impacts.",
+      "link": "#",
+      "image": "https://via.placeholder.com/300x200?text=Blockchain+Basics"
+    },
+    {
+      "id": 7,
+      "title": "Software Engineering Symposium",
+      "date": "2024-09-10",
+      "description": "A symposium for discussing trends and challenges in software engineering.",
+      "link": "#",
+      "image": "https://via.placeholder.com/300x200?text=Software+Engineering"
+    },
+    {
+      "id": 8,
+      "title": "Cloud Computing Conference",
+      "date": "2024-10-20",
+      "description": "Dive deep into cloud computing technologies and services.",
+      "link": "#",
+      "image": "https://via.placeholder.com/300x200?text=Cloud+Computing"
+    },
+    {
+      "id": 9,
+      "title": "Web Development Bootcamp",
+      "date": "2024-11-15",
+      "description": "A comprehensive bootcamp on modern web development practices.",
+      "link": "#",
+      "image": "https://via.placeholder.com/300x200?text=Web+Development"
+    },
+    {
+      "id": 10,
+      "title": "Data Science & Analytics Summit",
+      "date": "2024-12-05",
+      "description": "A summit focused on the latest in data science and analytics.",
+      "link": "#",
+      "image": "https://via.placeholder.com/300x200?text=Data+Science"
+    }
+  ]
+  
